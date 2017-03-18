@@ -1,7 +1,10 @@
 # SQL Nightmare
 An SQL SERVER Exploitation tool
 
-## Functions
+#### Executable
+Since this is source code, you can download exe from here [SQL Nightmare](https://www.dropbox.com/s/tld2ta55rajgcgf/SQL-nightmare.exe?dl=0)
+
+#### Functions
 1. Server Directory navigation.
 2. Server Database Dump.
 3. Read Server Files.
