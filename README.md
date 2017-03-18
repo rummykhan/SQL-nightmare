@@ -21,7 +21,7 @@ Replace the string/vulnerable column to 'rummykhan' and ending comments to --X-
 
 
 #### Contact
-You can contact me at <a href="mailto:rehan_manzoor@outlook.com">rehan_manzoor@outlook.com</a>
+Drop me an email at <a href="mailto:rehan_manzoor@outlook.com">rehan_manzoor@outlook.com</a>
 
 #### MIT License
 This software is licensed under [The MIT License (MIT)](LICENSE).
