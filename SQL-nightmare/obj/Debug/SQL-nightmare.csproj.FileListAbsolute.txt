@@ -1,0 +1,6 @@
+c:\users\neo root\documents\visual studio 2013\Projects\SQL-nightmare\SQL-nightmare\bin\Debug\SQL-nightmare.exe.config
+c:\users\neo root\documents\visual studio 2013\Projects\SQL-nightmare\SQL-nightmare\obj\Debug\SQL-nightmare.csprojResolveAssemblyReference.cache
+c:\users\neo root\documents\visual studio 2013\Projects\SQL-nightmare\SQL-nightmare\bin\Debug\SQL-nightmare.exe
+c:\users\neo root\documents\visual studio 2013\Projects\SQL-nightmare\SQL-nightmare\bin\Debug\SQL-nightmare.pdb
+c:\users\neo root\documents\visual studio 2013\Projects\SQL-nightmare\SQL-nightmare\obj\Debug\SQL-nightmare.exe
+c:\users\neo root\documents\visual studio 2013\Projects\SQL-nightmare\SQL-nightmare\obj\Debug\SQL-nightmare.pdb
