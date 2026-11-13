@@ -27,5 +27,3 @@ Drop me an email at <a href="mailto:rehan_manzoor@outlook.com">rehan_manzoor@out
 This software is licensed under [The MIT License (MIT)](LICENSE).
 
 
-#### With Love for
-| Lafangoo | Connecting | Ch3rn0by1 | exploiter-z | PMH`s Str!k3r | Makman | Madcode |  g00n | benzi | Ricardo | Ajkaro | SOG | Jin | Zee-PK | Gujjar | Ashx | h98d (Hussein) | Muhammad Bilal |
